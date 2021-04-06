@@ -1,4 +1,3 @@
-from selectorlib import Extractor
 import requests
 import csv
 import time
